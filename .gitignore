@@ -16,4 +16,5 @@
 
 # Add below lines to exclude IDE settings and caches
 .idea
+.idea/*
 .vscode
