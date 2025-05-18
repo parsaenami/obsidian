@@ -1,0 +1,3 @@
+- should be a **sorted** list
+- each guess answers a yes/no question
+- O(logn)

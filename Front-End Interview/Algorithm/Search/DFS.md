@@ -1,0 +1,5 @@
+- start at root and go as far as you can to find the target. at the end, we come back to first unvisited branch.
+- [[Backtracking]] solution
+- we  have a `visitedArray = []`. after each visit, we add that node to `visitedArray`.
+- usages: maze
+- O(nodes + branches)

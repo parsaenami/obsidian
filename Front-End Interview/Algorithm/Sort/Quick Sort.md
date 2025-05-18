@@ -1,0 +1,6 @@
+- divide and conquer
+- recursive
+- choose a pivot number -> split the list to bigger and smaller numbers -> do the same for each side
+- best case: O(n logn)
+- worst case: O(n^2 )
+- fastest if the code is optimized

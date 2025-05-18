@@ -1,0 +1,2 @@
+- start from the first item and check if it is the target
+- O(n)

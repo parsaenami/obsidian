@@ -1,0 +1,2 @@
+- goes through the array to fin the smallest item and puts it in the first index
+- O(n^2)

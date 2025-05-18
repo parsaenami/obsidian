@@ -1,0 +1,3 @@
+- when this is impossible to find the best answer
+- does not guarantee the best answer
+- choose the best possible option at the time, without taking a look to the options we could have after each choice

@@ -1,0 +1,3 @@
+- divide and conquer
+- O(n logn)
+- usages: larger lists - unsorted lists

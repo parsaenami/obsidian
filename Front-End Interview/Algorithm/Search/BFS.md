@@ -1,0 +1,6 @@
+- search each level first
+- `visited = []` 
+- `neighbours = []`
+- visit a node -> add to `visited` -> add children to `neighbours`
+- usages: chess
+- O(nodes + branches)
